@@ -1,0 +1,42 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Nav from '../components/Nav.astro';
+import Products from '../components/Products.astro';
+import Footer from '../components/Footer.astro';
+import CTA from '../components/CTA.astro';
+---
+
+<Layout>
+    <Nav />
+    <main style="padding-top: 4rem;">
+        <div class="section" style="text-align: center;">
+            <span class="section-label">Unser Sortiment</span>
+            <h1 class="section-title">Alles für deine Nährstoffversorgung</h1>
+            <p class="section-sub" style="margin: 0 auto;">Vom Einstieg bis zum Premium-Algenöl – finde das Produkt, das zu deinem Lifestyle passt.</p>
+        </div>
+        <Products />
+        <div class="section" style="background: var(--white);">
+            <div class="pricing-highlight">
+                <div class="pricing-item">
+                    <span class="label">Vorteil</span>
+                    <span class="big">Abo-Modell</span>
+                    <span class="desc">Spare 15% bei jeder Lieferung</span>
+                </div>
+                <div class="pricing-divider"></div>
+                <div class="pricing-item">
+                    <span class="label">Qualität</span>
+                    <span class="big">100% Vegan</span>
+                    <span class="desc">Zertifiziert nach EU-Recht</span>
+                </div>
+                <div class="pricing-divider"></div>
+                <div class="pricing-item">
+                    <span class="label">Versand</span>
+                    <span class="big">Kostenlos</span>
+                    <span class="desc">Ab einem Bestellwert von 30 €</span>
+                </div>
+            </div>
+        </div>
+        <CTA />
+    </main>
+    <Footer />
+</Layout>

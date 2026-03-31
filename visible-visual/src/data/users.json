@@ -1,0 +1,12 @@
+[
+  {
+    "email": "admin@vitaflavor.de",
+    "password": "premium_password_95",
+    "name": "VITAFLAVOR Admin"
+  },
+  {
+    "email": "test@user.de",
+    "password": "testuser",
+    "name": "Test User"
+  }
+]

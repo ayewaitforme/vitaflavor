@@ -1,0 +1,177 @@
+---
+# Hinweise
+'''Allgemeine Informationen und Anleitungen zur Nutzung der Finanzplanungs-Vorlage.'''
+AUFGABE 4: FINANZPLANUNG,,
+"Liebe Teams,
+mit diesen Vorlagen möchten wir euch die Erstellung euer Finanzplanung erleichtern. Ihr findet in dieser Datei insgesamt 7 Tabellenblätter:",,
+BLATT 1,HINWEISE ,
+BLATT 2,UMSATZERLÖSPLANUNG FÜR 3 JAHRE,
+BLATT 3,KAPITALBEDARFSPLANUNG,
+BLATT 4,LIQUIDITÄTSPLANUNG,
+BLATT 5,GEWINN- UND VERLUSTRECHNUNG FÜR 3 JAHRE,
+BLATT 6,BREAK-EVEN-ANALYSE,
+BLATT 7,FINANZIERUNGSQUELLEN,
+"Allgemeine Hinweise
+Bitte beachtet, dass die Inhalte und Formeln aller Tabellen außer Blatt 6 „Break-even-Analyse“ nicht geschützt sind.
+Das bedeutet, ihr könnt diese Tabellen bei Bedarf anpassen. Solche Anpassungen sind zum Beispiel in folgenden Fällen sinnvoll:
+
+- Eure Zahlen sind sehr groß, sodass eine breitere Spalte benötigt wird.
+- Der Platz für eure Erläuterungen reicht nicht aus und ihr möchtet die Zeilenhöhe anpassen.
+- Eine zusätzliche Zeile ist notwendig, weil eine weitere Kostenposition hinzukommt.
+
+Dass ihr mehr Platz für eure Zahlen oder Erläuterungen benötigt, erkennt ihr daran, dass anstelle eurer Werte nur „###…###“ angezeigt werden.",,
+"Hinweis zum Blatt 6 „Break-even-Analyse“:
+Das Blatt 6 „Break-even-Analyse“ ist mit Blatt 5 „Gewinn- und Verlustrechnung“ verknüpft.
+Alle Werte, die ihr in der Gewinn- und Verlustrechnung eintragt, werden automatisch in die Tabelle „Break-even-Analyse“ übernommen und auf die einzelnen Monate verteilt.
+
+Dieses Blatt ist schreibgeschützt (Passwort: DGPS), damit Formeln nicht versehentlich verändert werden.
+Bitte nehmt auf diesem Blatt keine Änderungen vor und führt keine eigenen Berechnungen durch.
+
+Die Darstellung der Monate sowie die Grafiken zur Break-even-Analyse könnt ihr einblenden,
+indem ihr in der obersten Zeile des Tabellenblatts auf das „+“-Symbol klickt.
+
+Den Zeithorizont bis zum Erreichen der Gewinnschwelle könnt ihr in Zeile 4 ablesen.
+Falls ihr die Formel in Zelle B4 versehentlich geändert habt, lautet sie korrekt:",,
+"Bei einer Unternehmensgründung muss häufig eine gewisse „Durststrecke“ überwunden werden,
+bevor die ersten Gewinne erzielt werden. Wenn sich aufgrund eurer Angaben ergibt,
+dass die Gewinnschwelle bereits im ersten Monat nach der Firmengründung erreicht wird,
+solltet ihr die Gewinn- und Verlustrechnung sowie die Umsatzzahlen noch einmal überprüfen.
+Ein solches Ergebnis ist in der Regel nicht realistisch.",,
+Bitte gebt immer Beträge ohne MwSt an (netto).,,
+Alternativ könnt ihr auch gerne eine selbst entwickelte Datei im Onlineformular hochladen. Bitte beachtet dabei das vorgegebene Dateiformat.,,
+Viel Spaß beim Bearbeiten!,,Version 12.2025
+---
+# Umsatzerlösplanung
+'''Planung der Absatzmengen und Verkaufspreise zur Ermittlung der jährlichen Umsatzerlöse für bis zu 3 Jahre.'''
+UMSATZERLÖSPLANUNG,,,,,,
+Jahr,,Abgesetzte Menge,Verkaufspreis                  (exkl. MwSt./ netto),Verkaufspreis                  (inkl. MwSt. 19 %) ,Umsatzerlöse ,eure Erläuterungen
+Jahr 1,Boost,3847,16.7647058823529,19.94999999999995,64493.8235294116,
+,Drizzle,0,0,0,0,
+Jahr 2,Boost Refill,12000,10.04,11.947599999999998,120479.99999999999,
+,Drizzle Starter Kit,4000,20.97,24.954299999999996,83880,
+,Boost Starter Kit,3000,16.7647058823529,19.94999999999995,50294.1176470587,
+Jahr 3,Boost Refill,25000,10.04,11.947599999999998,250999.99999999997,
+,Drizzle Starter Kit,4000,20.97,24.954299999999996,83880,
+,Boost Starter Kit,4000,16.7647058823529,19.94999999999995,67058.8235294116,
+"Ihr habt die Möglichkeit, in dieser Übersicht eure Umsatzerlöse für euer Produkt/eure Dienstleistung zu planen. Sollte der vorhergesehene Platz für 2 Produkte nicht ausreichend sein, könnt ihr jederzeit gerne weitere Produkte (Zeilen) hinzufügen. ",,,,,,
+Achtung: Der Verkaufspreis zzgl. Mehrwertsteuer (= Bruttopreis) ist der Preis für eure Kunden. In allen Finanzplanungsrechnungen sind jedoch Verkaufspreise ,,,,,,
+ohne Mehrwertsteuer (= Nettopreis) anzusetzen.,,,,,,
+Warum ist dies so? ,,,,,,
+Ein Beispiel: Ihr stellt euren Kund:innen Rechnungen aus und berechnet den Mehrwertsteuersatz von 19 % zusätzlich auf den Produktpreis. Wenn die Mehrwertsteuer auf eure,,,,,,
+"gesamten verkauften Produkte gegenüber der von euch gezahlten Mehrwertsteuer auf eure gesamten Ausgaben (z. B. Mehrwertsteuer auf gekauftes Büromaterial) überwiegt, ",,,,,,
+zahlt ihr die Differenz daraus an die Finanzbehörden. Im umgekehrten Fall zahlen die Finanzbehörden euch die Differenz aus. Diese Methode ist bei der Berechnung der Mehr- ,,,,,,
+"wertsteuer am weitesten verbreitet und zeigt, dass es eine Steuer ist, die ins Unternehmen hinein und wieder hinaus fließt - also mehr oder weniger ein Durchleitungsposten ist, ",,,,,,
+mit dem insofern nicht fest in den Planungsrechnungen zu kalkulieren ist.,,,,,,
+---
+# Kapitalbedarfsplanung
+'''Ermittlung des notwendigen Kapitals für Investitionen und Anlaufkosten vor Geschäftsbeginn.'''
+KAPITALBEDARFSPLANUNG,,,
+Bezeichnung,exkl. MwSt. (netto),eure Erläuterungen,Erläuterungen zu den einzelnen Punkten
+Investitionen,,,"Überlegt genau, welche Investitionen ihr zur Verwirklichung eurer Geschäftsidee vornehmen müsst! Braucht ihr z.B. ein Auto für Kundenbesuche? Oder was benötigt ihr an Möbeln für das Büro oder Maschinen?"
+Maschinen/ technische Anlagen,5000,Wir outsourcen nach ein paar jahren machen wir es in house,
+Fahrzeuge,2835,Jobticket für 15 mitarbeiter,
+Betriebs- und Geschäftsausstattung,8000,"Schreibtische, Regale für das Lager, Laptops",
+Sonstiges,3000,"Lizenz, Patente",
+Summe Investitionen,18835,,
+Anlaufkosten (Kosten vor Aufnahme des Geschäftsbetriebs bzw. vor den ersten Umsätzen),,,"Oftmals kann es einige Zeit dauern, bis ihr euer Produkt/eure Dienstleistung auch wirklich ""an den Mann"" bringt - also überhaupt verkauft. Bedenkt also, dass bis dahin Kosten entstehen und überlegt, welche dies sein können. Wenn ihr hier Anlaufkosten bis zu euren ersten Umsätzen angebt, gebt bitte auch an, für welchen Zeitraum diese Kosten anfallen."
+Personalkosten,18000,Gehälter für die Gründer und erste mitarbeiter,
+Miete / Pacht inkl. Nebenkosten,1950,Kaltmiete für die ersten 3 Monate,
+Mietsicherheit / Kaution ,15000,Halle in der Nähe von Berlin,
+Kfz-Kosten,500,Fahrten zum Lohnhersteller mit dem Privat PKW modell(0.3 pro kilometer),
+Werbungskosten/ Reisekosten,0,Selbstwrebung auf Social Media,
+Sonstiges,5000,"Lizenz, Patente",
+Summe Anlaufkosten,40450,,
+Bedarf Startkapital,59285,,
+"Wichtig ist, dass ihr dieses errechnetete Kapital benötigt, um überhaupt mit eurer Idee starten zu können. 
+Überlegt als nächstes, wie und durch wen ihr dieses Kapital bekommt.",,,
+FINANZIERUNG,,,
+Bezeichnung,exkl. MwSt. (netto),eure Erläuterungen,Erläuterungen zu den einzelnen Punkten
+Eigenkapital,,,
+Eigenmittel,25000,Gesetzlich gesehen müssen wir so viel einlegen,"Eigene Sparreserven, die eingebracht werden.
+Eigenmittel können auch Beteiligungen durch Dritte sein."
+Sonstiges (z.B. Verkäuferdarlehen o.ä.),0,wir wollen all unser startkapial von Krediten Nutzen,
+Fremdkapital,,,
+Kredite/ Darlehen,120000,ICBC ,z.B. von eurer Hausbank
+sonstige Fremdmittel,0,wir wollen all unser startkapial von Krediten Nutzen,z.B. aus der Familie o.ä.
+Summe Finanzierung Startkapital,145000,,
+---
+# Liquiditätsplanung
+'''Monatliche Gegenüberstellung von Einzahlungen und Auszahlungen zur Sicherstellung der Zahlungsfähigkeit im ersten Jahr.'''
+LIQUIDITÄTSPLANUNG,,,,,,,,,,,,,,
+"Diese Planungsrechnung startet in dem Monat, in dem ihr das erste Mal Umsatzerlöse macht. Überlegt bei dieser Tabelle, wann konkret Geld in euer Unternehmen hineinfließt und wann es herausfließt. 
+Alle aufgeführten Positionen habt ihr der Höhe nach bereits in den anderen Tabellenblättern bestimmt. Jetzt geht es um die Überlegung, welche Zahlungen wann fällig werden. Alle Beträge ohne MwSt angeben (netto).",,,,,,,,,,,,,,
+Bezeichnung,1. Monat,2. Monat,3. Monat,4. Monat,5.Monat,6. Monat,7. Monat,8. Monat,9. Monat,10. Monat,11. Monat,12. Monat,eure Erläuterungen,Erläuterungen zu den einzelnen Punkten
+Umsatzerlöse,0,0,0,5993.82,6600,8000,6000,6000,9000,8800,6600,7500,In den ersten 3 Monaten haben wir vor gar kein geld zu verdienen,Im einfachsten Fall teilt ihr die Umsatzerlöse des 1. Jahres durch 12 Monate. Oder habt ihr saisonales Geschäft - also schwanken die Umsätze
+Kredite / Beteiligungen,120000,0,0,0,0,0,0,0,0,0,0,0,Die kredite sind geplant in 5 Jahren ausgezahlt zu werden ,Wann werden z.B. die Kredite ausgezahlt?
+Private Einlagen,25000,0,0,0,0,0,0,0,0,0,0,0,Private Einlagen für die Sicherheit innerhalb der Wachstumsphase,
+Summe Einzahlungen,145000,0,0,5993.82,6600,8000,6000,6000,9000,8800,6600,7500,,
+"Anlaufkosten (s. Tabelle ""Kapitalbedarf"")",40450,0,0,0,0,0,0,0,0,0,0,0,Unsere anlaufkosten haben wir für die ersten 3 Monae geplant,Übernehmt hier den Wert und tragt ihn in den 1.Monat ein
+Personalkosten inkl. Lohnnebenkosten,0,0,0,6000,6000,6000,6000,6000,6000,6000,6000,6000,Teil der Anlaufkosten für die ersten 3 Monate und die Gründer haben 6000 pro monat gehalt,"Im einfachsten Fall teilt ihr die Summe der Kosten des 1. Jahres durch 12 Monate. Oder gibt es sinnvolle Begründungen, warum die Zahlungen nicht jeden Monat in gleicher Höhe anfallen? Gedanken: Weihnachts- und Urlaubsgeld, Fälligkeiten von Versicherungen etc."
+Geschäftsführerbezüge (bei Kapitalgesellschaft),0,0,0,0,0,0,0,0,0,0,0,0,Teil der Anlaufkosten für die ersten 3 Monate und wir bleiben privat,
+Waren / Material,0,0,0,3596.292,3960,4800,3600,3600,5400,5280,3960,4500,Teil der Anlaufkosten für die ersten 3 Monate 40% umsatz bei alltäglichprodukten ist normal,
+Miete / Pacht,0,0,0,650,650,650,650,650,650,650,650,650,Teil der Anlaufkosten für die ersten 3 Monate produktionshalle in der nähe von Berlin,
+Heizung / Strom / Wasser,0,0,0,1030,1030,1030,1030,1030,1030,1030,1030,1030,Teil der Anlaufkosten für die ersten 3 Monate dieser preis ist normal für 6 leute ,
+Werbung / Marketing,0,0,0,200,200,200,200,200,200,200,200,200,"Wir machen unser Werbung selbst auf social media mit den Privatkonten die 200 Euro sind für feierabend parties, welche wir für Content nutzen",
+Fahrzeugkosten,0,0,0,500,500,500,500,500,500,500,500,500,KFZ auto ,
+Steuerberatungskosten,0,0,0,0,0,0,0,0,0,0,0,1500,Am ende des Jahres suchen wir einen Steuerbertater,
+Sonstige Kosten,0,0,0,0,0,0,0,0,0,0,0,3000,Teamevent am ende des Jahres,
+Zinsen,0,500,500,500,500,500,500,500,500,500,500,500,500€ Pro manat für 120000€ ist normal dies ist in der Tilgungszeit,"Wann sind die berechneten Zinsen (Tabelle ""Gewinn- und Verlustrechnung"") zu zahlen? Rückzahlungen von Darlehen werden aus Vereinfachungsgründen nicht gefordert. In der Regel sind sowieso gerade Gründungsdarlehen in der Anfangsphase (2-3 Jahre) tilgungsfrei."
+"Investitionen (s. Tabelle ""Kapitalbedarf"")",18335,0,0,0,0,0,0,0,0,0,0,0,Wir haben vor alle Investitionen im ersten monat fertig zu haben,Übernhemt hier den Wert und tragt ihn in den 1.Monat ein. Wir unterstellen das alle Investitionen im 1.Monat erfolgen
+Summe Auszahlungen,58785,500,500,12476.292,12840,13680,12480,12480,14280,14160,12840,17880,,"Beachtet: Wenn ihr einer:einem potenziellen Geldgeber:in eine Planung vorlegt, wo auch nur in einem Monat am Ende ein Minus vorliegt, wird sie:er wohl eher nicht von euren Planzahlen überzeugt sein und Geld in euer Unternehmen investieren. "
+Über- / Unterdeckung,86215,-500,-500,-6482.472,-6240,-5680,-6480,-6480,-5280,-5360,-6240,-10380,,
+Saldo Vorperiode,0,86215,85715,85215,78732.528,72492.528,66812.528,60332.528000000006,53852.528000000006,48572.528000000006,43212.528000000006,36972.528000000006,,
+Geld zur Verfügung,86215,85715,85215,78732.528,72492.528,66812.528,60332.528000000006,53852.528000000006,48572.528000000006,43212.528000000006,36972.528000000006,26592.528000000006,,
+---
+# Gewinn- und Verlustrechnung
+'''Zusammenfassung von Erträgen und Aufwendungen zur Ermittlung des Betriebsergebnisses für 3 Jahre.'''
+GEWINN- UND VERLUSTRECHNUNG,,,,,
+Bezeichnung,1. Jahr,2. Jahr,3. Jahr,eure Erläuterungen,Erläuterungen zu den einzelnen Punkten
+Umsatzerlöse,64493.82,254654.12,401938.82,Wir sind im ersten Jahr in der Wachstumsphase ,"Legt hier den in der Tabelle ""Umsatzerlösplanung"" ermittelten Umsatzerlös zu Grunde."
+Materialeinsatz,38696.292,152792.47199999998,241163.292,40% umsatz bei solchen produkten ist normal,"Wareneinsatz für zu produzierende Produkte oder Dienstleistungen, Kosten für Material zur Weiterverarbeitung. Bei einer Dienstleistungsidee sollten hier laufende Kosten für Fremdleistungen angegeben werden, welche auf den Endkunden umgelegt werden, also im Preis enthalten sind. "
+Rohertrag / Rohgewinn,25797.528,101861.64800000002,160775.52800000002,,
+ Personalkosten inkl. Lohnnebenkosten,72000,72000,72000,In den ersten 3 Jahren haben wir vor nur Gründer Teil des Unternehmens,"Legt für jeden Mitarbeitenden ein Monatsgehalt fest. Addiert darüber hinaus die Lohnnebenkosten (Sozialversicherungsanteil der Arbeitgeberin/des Arbeitgebers und die gesetzliche Unfallversicherung) von zur Zeit rund 22% vom Monatsgehalt eines Mitarbeitenden. Multipliziert diesen Betrag mit 12 (Jahresgehalt) und addiert gegebenenfalls noch ein jährliches Weihnachts- und Urlaubsgeld hinzu. Als Gegenleistung erhaltet ihr die Arbeitskraft des Mitarbeitenden an etwa 220 Tagen im Jahr. Wenn ihr alle Aufgaben selbst übernehmt und keine Mitarbeitenden einstellt, entfällt diese Kostenart, sofern ihr nicht als Angestellte:r selbst in eurem Betrieb arbeitet. Dann fallen hier selbstverständlich auch Personalkosten an, z.B. als Geschäftsführer:in einer GmbH. Achtet jedoch darauf, dass euer Unternehmen auch einen Gewinn erzielen muss, damit ihr euren Lebensunterhalt bestreiten könnt. Hinweis: Gründer:innen sollten die zu zahlenden Gehälter möglichst gering halten. Sinnvoll ist bedarfsorientiert mit freien Mitarbeitenden zu arbeiten. Dann sind diese Kosten als Fremdleistungen im Materialeinsatz zu berücksichtigen."
+"Geschäftsführerbezüge 
+(bei Kapitalgesellschaften)",0,0,0,Wir bleiben Privat für die ersten 3 Jahre ,
+"Miete/Pacht inkl. Heiz-, Strom- und Wasserkosten",20160,20160,20160,"Produktionshalle in 15366 Hoppegarten, Märkisch-Oderland",Miete für 1 Jahr bzw. Pacht; beispielhafte Mieten von gewerblich genutzten Räumen bekommt ihr im Internet
+Werbung / Marketing,1800,2400,2400,Wir machen unsere Werbung auf social media selbst,"Wenn ihr bspw. Anzeigen für euer Produkt / eure Dienstleistung schalten möchtet, fallen Kosten an: Anzeigen in der Presse sind in der Regel weitaus günstiger als Anzeigen in überregionalen Medien. Kosten entstehen auch für die Produktion und Verteilung von Plakaten, Handzetteln und Infobriefen (Mailings) sowie digitaler Werbung in den Social Media Kanälen. Auch in eine Homepage müsst ihr investieren: in den Server, die regelmäßige Aktualisierung sowie in eventuelle Sonderaktionen wie Preisrabatte bei Bestellungen im Internet etc. Werbung ist gerade am Anfang einer Unternehmensgründung sehr wichtig und wird immer wieder unterschätzt. Es sollte rechtzeitig damit begonnen und für das erste Jahr ein ausreichendes Budget eingeplant werden. Denkt auch gerne über digitale Kanäle nach und recherchiert die Kosten."
+Fahrzeugkosten,2835,2835,2835,Jobticket für 15 mitarbeiter ,"Müsst ihr zu Beginn eurer Geschäftstätigkeit Kund:innen oder Lieferant:innen akquirieren und seid dadurch viel unterwegs? Kalkuliert z. B. auch Leasingkosten für Firmenfahrzeuge, Kosten für Geschäftsreisen (Fahrtkosten, Übernachtungen), Benzin- und Reperaturkosten etc."
+Steuerberatungskosten,1500,1500,1500,Immer am ende des Jahres wollen wir einen Steuerberater finden,"Monatliche Kosten des:der Steuerberaters:in und/oder Wirtschaftsprüfers:in können in der Existenzgründungsphase mit durchschnittlich 300 Euro monatlich zu Buche schlagen. Vielleicht hilft euch in der Anfangsphase aber auch ein:eine Fachmann/ Fachfrau aus dem Bekanntenkreis aus. Aber beachtet: Wichtig ist, dass von Anfang an ein:e Fachkundige:r die Buchführung durchführt. Darüber hinaus solltet ihr spezielle Gründungskosten einplanen (z. B. Existenzgründungsberatung, Unternehmens- oder Marketingberatung etc.). Die Gründungs- und Beratungskosten sind zum Teil sehr hoch. Keinesfalls unterschätzen! Bei der Beratung könnt ihr evtl. auch auf die Existenzgründungsberater:innen der örtlichen Sparkasse zählen."
+sonstige Kosten,0,0,0,Nichts Sonstiges,"Gibt es sonstige Kosten, die in eurem Unternehmen anfallen und die bisher nicht berücksichtigt wurden? Dann ist dieser Punkt die richtige Stelle, um sie in die Kostenplanung aufzunehmen."
+Summe Kosten,98295,98895,98895,,
+"Gewinn/Verlust (vor Zinsen, Abschreibungen und Steuern)",-72497.472000000009,2966.6480000000156,61880.52800000002,,
+ Zinsen ,6000,6000,9000,Die ersten 2 Jahre ist die Tilgungszeit wir bezahlen nur 500 im dritten Jahr Zahlen wir das Kredit zurück also steigen die kosten auf 750 pro monat,"Zinsen für kurz- und langfristiges Fremdkapital fallen im Betrieb als Kosten an. Bedenkt: Kurzfristiges Fremdkapital wie beispielsweise Kontokorrentkredite werden zu einem anderen Prozentsatz verzinst als langfristiges Fremdkapital (z. B. Bankdarlehen über mehr als vier Jahre). Formel: Fremdkapital x durchschnittlicher Zinssatz = Euro/Jahr; Kurzfristige Kredite (Kontokorrent) = 9 bis 12 Prozent- Mittel- bis langfristige Kredite = 6 Prozent. Diesen Betrag errechnet ihr am besten erst dann, wenn ihr euch über eure Finanzierung klar geworden seid (siehe Tabellenblatt ""Kapitalbedarfsplanung""). "
+Abschreibungen,3767,3767,3767,"Wir schreiben nichts privates ab, aber weil wir unsere invenstitionen in 5 Jahren wegwerfen also sind es 20% von unseren Investitionen","In dem Tabellenblatt ""Kapitalbedarfsplanung"" habt ihr euch bereits Gedanken über notwendige Investitionen für eure Geschäftsidee gemacht. Die  Investitionen werden beim Erwerb mit den Anschaffungs- oder Herstellungskosten in die Buchhaltung aufgenommen. Durch Gebrauch und natürlichen Verschleiß bzw. durch technischen Fortschritt oder Nachfrageausfall verlieren diese Investitionen jedoch ständig an Wert. Diese Wertminderung wird unter dem Begriff ""Abschreibung"" als Kosten in der Gewinn- und Verlustrechnung angesetzt. Es sind sozusagen fiktive Kosten für den Wertverlust Ihrer Investitionen. In der Praxis wird zur Ermittlung der jährlich anzusetzenden Kosten für jedes einzelne Investitionsgut eine Abschreibungstabelle über die Abnutzungszeit des Gutes erstellt - dabei existieren unterschiedliche Abnutzungszeiten für Maschinen oder PCs. Hier machen wir es euch einfacher: Nehmt die Summe der von euch geplanten Investitionen und verteilt  diese auf eine pauschal angenommene Abnutzungszeit von 5 Jahren. Jetzt könnt ihr also für euren Dreijahresplan (jeweils ein Fünftel der Gesamtsumme) die Wertminderungen eurer Investitionen aufführen. Die verbleibenden zwei Fünftel werden im Jahr 4 und 5 ebenfalls buchhalterisch erfasst (hier nicht erforderlich)."
+Betriebsgewinn/-verlust,-82264.472000000009,-6800.3519999999844,49113.52800000002,,
+"Natürlich sind eigentlich auch Steuern auf der Kostenseite zu berücksichtigen. Dass sie in dieser Übersicht nicht auftauchen, ist kein Fehler, sondern soll euch die Arbeit erleichtern. Gebt bitte alle Beträge ohne MwSt. an (netto). ",,,,,
+---
+# Break-even-Analyse
+'''Berechnung des Zeitpunkts, an dem die Umsatzerlöse die Gesamtkosten decken (Gewinnschwelle).'''
+BREAK-EVEN-ANALYSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zeithorizont bis zum Erreichen der Gewinnschwelle:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Hinweis: bitte in den Spalten C bis N nichts bearbeiten: diese Zellen befüllen sich automatisch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Einheit,1. Jahr,1. Jahr,1. Jahr,1. Jahr,1. Jahr,1. Jahr,1. Jahr,1. Jahr,1. Jahr,1. Jahr,1. Jahr,1. Jahr,1. Jahr,2. Jahr,2. Jahr,2. Jahr,2. Jahr,2. Jahr,2. Jahr,2. Jahr,2. Jahr,2. Jahr,2. Jahr,2. Jahr,2. Jahr,2. Jahr,3. Jahr,3. Jahr,3. Jahr,3. Jahr,3. Jahr,3. Jahr,3. Jahr,3. Jahr,3. Jahr,3. Jahr,3. Jahr,3. Jahr,3. Jahr
+,Monate,Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember,Gesamt,Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember,Gesamt,Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember,Gesamt
+Umsatzerlöse,Euro,5374.485,5374.485,5374.485,5374.485,5374.485,5374.485,5374.485,5374.485,5374.485,5374.485,5374.485,5374.485,64493.82,21221.176666666666,21221.176666666666,21221.176666666666,21221.176666666666,21221.176666666666,21221.176666666666,21221.176666666666,21221.176666666666,21221.176666666666,21221.176666666666,21221.176666666666,21221.176666666666,254654.12,33494.901666666665,33494.901666666665,33494.901666666665,33494.901666666665,33494.901666666665,33494.901666666665,33494.901666666665,33494.901666666665,33494.901666666665,33494.901666666665,33494.901666666665,33494.901666666665,401938.82
+Materialeinsatz,Euro,3224.6910000000003,3224.6910000000003,3224.6910000000003,3224.6910000000003,3224.6910000000003,3224.6910000000003,3224.6910000000003,3224.6910000000003,3224.6910000000003,3224.6910000000003,3224.6910000000003,3224.6910000000003,38696.292,12732.705999999998,12732.705999999998,12732.705999999998,12732.705999999998,12732.705999999998,12732.705999999998,12732.705999999998,12732.705999999998,12732.705999999998,12732.705999999998,12732.705999999998,12732.705999999998,152792.47199999998,20096.941,20096.941,20096.941,20096.941,20096.941,20096.941,20096.941,20096.941,20096.941,20096.941,20096.941,20096.941,241163.292
+Deckungsbeitrag,Euro,2149.7939999999994,2149.7939999999994,2149.7939999999994,2149.7939999999994,2149.7939999999994,2149.7939999999994,2149.7939999999994,2149.7939999999994,2149.7939999999994,2149.7939999999994,2149.7939999999994,2149.7939999999994,25797.528,8488.470666666668,8488.470666666668,8488.470666666668,8488.470666666668,8488.470666666668,8488.470666666668,8488.470666666668,8488.470666666668,8488.470666666668,8488.470666666668,8488.470666666668,8488.470666666668,101861.64800000002,13397.960666666668,13397.960666666668,13397.960666666668,13397.960666666668,13397.960666666668,13397.960666666668,13397.960666666668,13397.960666666668,13397.960666666668,13397.960666666668,13397.960666666668,13397.960666666668,160775.52800000002
+Investitionen,Euro,1569.5833333333333,1569.5833333333333,1569.5833333333333,1569.5833333333333,1569.5833333333333,1569.5833333333333,1569.5833333333333,1569.5833333333333,1569.5833333333333,1569.5833333333333,1569.5833333333333,1569.5833333333333,18835,,,,,,,,,,,,,,,,,,,,,,,,,,
+Anlaufkosten,Euro,3370.8333333333335,3370.8333333333335,3370.8333333333335,3370.8333333333335,3370.8333333333335,3370.8333333333335,3370.8333333333335,3370.8333333333335,3370.8333333333335,3370.8333333333335,3370.8333333333335,3370.8333333333335,40450,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fixkosten,Euro,8191.25,8191.25,8191.25,8191.25,8191.25,8191.25,8191.25,8191.25,8191.25,8191.25,8191.25,8191.25,98295,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,98895,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,8241.25,98895
+"Gewinn vor Zinsen, Abschreibungen und Steuern",Euro,-10981.872666666666,-10981.872666666666,-10981.872666666666,-10981.872666666666,-10981.872666666666,-10981.872666666666,-10981.872666666666,-10981.872666666666,-10981.872666666666,-10981.872666666666,-10981.872666666666,-10981.872666666666,-72497.472000000009,247.22066666666797,247.22066666666797,247.22066666666797,247.22066666666797,247.22066666666797,247.22066666666797,247.22066666666797,247.22066666666797,247.22066666666797,247.22066666666797,247.22066666666797,247.22066666666797,2966.6480000000156,5156.7106666666659,5156.7106666666659,5156.7106666666659,5156.7106666666659,5156.7106666666659,5156.7106666666659,5156.7106666666659,5156.7106666666659,5156.7106666666659,5156.7106666666659,5156.7106666666659,5156.7106666666659,61880.527999999991
+Umsatzerlöse,Euro,5374.485,10748.97,16123.454999999998,21497.94,26872.425,32246.91,37621.395,42995.88,48370.365,53744.85,59119.335,64493.82,64493.82,85714.996666666673,106936.17333333334,128157.35,149378.52666666667,170599.70333333334,191820.88,213042.05666666667,234263.23333333334,255484.41,276705.58666666667,297926.76333333331,319147.93999999994,319147.93999999994,352642.84166666662,386137.74333333329,419632.64499999996,453127.54666666663,486622.4483333333,520117.35,553612.25166666659,587107.1533333332,620602.05499999982,654096.95666666643,687591.858333333,721086.75999999966,721086.75999999966
+Variable Kosten,Euro,3224.6910000000003,6449.3820000000005,9674.073,12898.764000000001,16123.455000000002,19348.146,22572.837,25797.528,29022.218999999997,32246.909999999996,35471.600999999995,38696.291999999994,38696.291999999994,51428.997999999992,64161.703999999991,76894.409999999989,89627.11599999998,102359.82199999999,115092.52799999999,127825.234,140557.94,153290.646,166023.352,178756.05800000002,191488.76400000002,191488.76400000002,211585.70500000002,231682.646,251779.587,271876.528,291973.469,312070.41,332167.35099999997,352264.29199999996,372361.23299999995,392458.17399999994,412555.11499999993,432652.05599999992,432652.05599999992
+Fixkosten,Euro,8191.25,16382.5,24573.75,32765,40956.25,49147.5,57338.75,65530,73721.25,81912.5,90103.75,98295,98295,106536.25,114777.5,123018.75,131260,139501.25,147742.5,155983.75,164225,172466.25,180707.5,188948.75,197190,197190,205431.25,213672.5,221913.75,230155,238396.25,246637.5,254878.75,263120,271361.25,279602.5,287843.75,296085,296085
+Fixe + variable Kosten,Euro,11415.941,22831.882,34247.823000000004,45663.764,57079.705,68495.646000000008,79911.587,91327.527999999991,102743.469,114159.41,125575.351,136991.292,136991.292,157965.248,178939.204,199913.15999999997,220887.11599999998,241861.072,262835.028,283808.984,304782.94,325756.896,346730.852,367704.808,388678.764,388678.764,417016.955,445355.146,473693.337,502031.528,530369.719,558707.90999999992,587046.101,615384.2919999999,643722.483,672060.67399999988,700398.865,728737.05599999987,728737.05599999987
+Break-even,Euro,-6041.456000000001,-12082.912000000002,-18124.368000000006,-24165.824000000004,-30207.280000000002,-36248.736000000004,-42290.192,-48331.647999999994,-54373.104,-60414.560000000005,-66456.016,-72497.47199999998,-72497.47199999998,-72250.251333333319,-72003.030666666658,-71755.809999999969,-71508.589333333308,-71261.368666666647,-71014.147999999986,-70766.927333333326,-70519.706666666665,-70272.486,-70025.265333333344,-69778.044666666712,-69530.824000000081,-69530.824000000081,-64374.1133333334,-59217.40266666672,-54060.692000000039,-48903.981333333359,-43747.270666666736,-38590.559999999939,-33433.849333333434,-28277.138666666695,-23120.428000000189,-17963.71733333345,-12807.006666666945,-7650.2960000002058,-7650.2960000002058
+Zeithorizont [in Monaten],,1,2,3,4,5,6,7,8,9,10,11,12,12,13,14,15,16,17,18,19,20,21,22,23,24,24,25,26,27,28,29,30,31,32,33,34,35,36,36
+---
+# Finanzierungsquellen
+'''Dokumentation und Begründung der gewählten Finanzierungsmittel (Eigen- und Fremdkapital).'''
+FINANZIERUNGSQUELLEN,
+"Auch wenn ihr mit eurem Unternehmen in Zukunft Geld verdienen möchtet - bis euer Produkt im Handel ist oder eure Dienstleistung angeboten wird und ausreichend Käufer:innen anlockt, müsst ihr erstmal investieren. Aber woher nehmt ihr das Geld für eure Gründung? Es gibt verschiedene Möglichkeiten, die euch zur Verfügung stehen. Darunter Wege der Eigen- und Fremdfinanzierung: Kredite, Erspartes Crowdfunding oder spezielle Fördergelder für Gründer:innen. 
+
+Informiert euch und diskutiert, welche Finanzierungsquellen sich für euer Unternehmen anbieten. Nennt bitte drei Finanzierungsquellen, die euch für eure Geschäftsidee sinnvoll erscheinen und begründet eure Auswahl: ",
+Finanzierungsquelle,Was spricht für diese Quelle? 
+1. Bankkredit,"Ideal zur Vorfinanzierung von Warenbeständen (Master-Boxen & Refills), um durch große Abnahmemengen die Stückkosten zu senken. Vorteil: Ihr behaltet 100 % der Firmenanteile und volle Entscheidungsgewalt."
+2. Private Einlagen,"Zeigt ""Skin in the Game"" und stärkt das Vertrauen von Banken/Investoren. Ermöglicht schnelles, bürokratiefreies Handeln in der kritischen Launch-Phase ohne sofortige Zinsbelastung der Liquidität."
+3. Investoren,"Liefern ""Smart Capital"" (Netzwerk zu Influencern/Logistik) und das nötige Budget für aggressives Performance-Marketing. Essenziell, um die Skalierung auf >300k € Umsatz im zweiten Jahr zu beschleunigen."

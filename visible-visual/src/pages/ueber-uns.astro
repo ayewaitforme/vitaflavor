@@ -1,0 +1,54 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Nav from '../components/Nav.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout>
+    <Nav />
+    <main style="padding-top: 4rem;">
+        <section class="section">
+            <span class="section-label">Unsere Mission</span>
+            <h1 class="section-title">Gesundheit, die gut schmeckt</h1>
+            <p class="section-sub">VITAFLAVOR entstand aus einer simplen Frustration: Warum müssen wir jeden Morgen Tabletten schlucken, um unsere vegane Lebensweise zu unterstützen? Wir dachten uns – das muss auch über das Essen funktionieren.</p>
+        </section>
+        
+        <section class="section solution-bg">
+            <div class="solution-inner">
+                <div>
+                    <h2 class="section-title">Unsere Geschichte</h2>
+                    <p class="section-sub">Nach zwei Jahren Forschung und Entwicklung haben wir die perfekte Formel gefunden. Unser Ziel ist es, funktionelles Essen so einfach und lecker wie möglich zu machen.</p>
+                </div>
+                <div class="solution-visual">
+                    <div class="problem-card">
+                        <div class="problem-icon">🌱</div>
+                        <h3>100% Vegan</h3>
+                        <p>Aus Überzeugung und für die Umwelt.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title" style="text-align:center;">Unsere Werte</h2>
+            <div class="problem-grid">
+                <div class="problem-card">
+                    <div class="problem-icon">🔬</div>
+                    <h3>Transparenz</h3>
+                    <p>Wir zeigen genau, wo unsere Rohstoffe herkommen.</p>
+                </div>
+                <div class="problem-card">
+                    <div class="problem-icon">🌎</div>
+                    <h3>Nachhaltigkeit</h3>
+                    <p>Wenig Plastik, Refill-Systeme, kurze Transportwege.</p>
+                </div>
+                <div class="problem-card">
+                    <div class="problem-icon">🍽️</div>
+                    <h3>Genuss</h3>
+                    <p>Gesunde Ernährung darf keine Qual sein.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <Footer />
+</Layout>

@@ -1,0 +1,44 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Nav from '../components/Nav.astro';
+import Solution from '../components/Solution.astro';
+import Comparison from '../components/Comparison.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout>
+    <Nav />
+    <main style="padding-top: 4rem;">
+        <div class="section" style="text-align: center;">
+            <span class="section-label">Wissenschaft</span>
+            <h1 class="section-title">Was wirklich drin steckt</h1>
+            <p class="section-sub" style="margin: 0 auto;">Wir setzen auf mikroverkapselte Vitamine für maximale Stabilität und Bioverfügbarkeit.</p>
+        </div>
+        <Solution />
+        <section class="section" style="background: var(--cream);">
+            <div class="solution-inner">
+                <div class="solution-visual">
+                    <div style="font-size:13px;font-weight:500;color:var(--mid);margin-bottom:1rem;letter-spacing:1px;text-transform:uppercase">Unsere Rohstoffe</div>
+                    <div class="nutrient-row">
+                        <div class="nutrient-name">B12 (Methylcobalamin)</div>
+                        <div class="nutrient-desc">Hochwertigste Form von Vitamin B12</div>
+                    </div>
+                    <div class="nutrient-row">
+                        <div class="nutrient-name">Vitamin D3 (aus Flechten)</div>
+                        <div class="nutrient-desc">Vegane Quelle, sonnig & natürlich</div>
+                    </div>
+                    <div class="nutrient-row">
+                        <div class="nutrient-name">Omega-3 (Algenöl)</div>
+                        <div class="nutrient-desc">Nachhaltig gewonnen, ohne Beifang</div>
+                    </div>
+                </div>
+                <div>
+                    <h2 class="section-title">Maximale Bioverfügbarkeit</h2>
+                    <p class="section-sub">Dank unserer patentierten Mikroverkapselung überleben die Nährstoffe Hitze bis zu 180°C. Das bedeutet, du kannst VITAFLAVOR direkt beim Kochen oder Backen verwenden, ohne Wirkverlust.</p>
+                </div>
+            </div>
+        </section>
+        <Comparison />
+    </main>
+    <Footer />
+</Layout>
